@@ -5,10 +5,10 @@ David Bann<sup>1</sup>, Meg Fluharty<sup>1</sup>, Rebecca Hardy<sup>2</sup> and 
 *BMC Medicine* 2020:18:338.
 
 <sup>1</sup> Centre for Longitudinal Studies, Social Research Institute, University College London, London, UK. 
-<sup>2</sup> CLOSER, Social Research Institute, University College
-London, London, UK. 
-<sup>3</sup> Department of Epidemiology and Public Health,
-University College London, London, UK.
+
+<sup>2</sup> CLOSER, Social Research Institute, University College London, London, UK. 
+
+<sup>3</sup> Department of Epidemiology and Public Health, University College London, London, UK.
 
 **Abstract**
 
