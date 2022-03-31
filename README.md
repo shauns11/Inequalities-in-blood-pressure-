@@ -1,13 +1,13 @@
-# Socioeconomic inequalities in blood pressure: co-ordinated analysis of 147,775 participants from repeated birth cohort and cross-sectional datasets, 1989 to 2016
+# **Socioeconomic inequalities in blood pressure: co-ordinated analysis of 147,775 participants from repeated birth cohort and cross-sectional datasets, 1989 to 2016**
 
-David Bann1, Meg Fluharty1, Rebecca Hardy2 and Shaun Scholes3
+David Bann<sup>1</sup>, Meg Fluharty<sup>1</sup>, Rebecca Hardy<sup>2</sup> and Shaun Scholes<sup>3</sup>
 
 *BMC Medicine* 2020:18:338.
 
-1 Centre for Longitudinal Studies, Social Research Institute, University College London, London, UK. 
-2 CLOSER, Social Research Institute, University College
+<sup>1</sup> Centre for Longitudinal Studies, Social Research Institute, University College London, London, UK. 
+<sup>2</sup> CLOSER, Social Research Institute, University College
 London, London, UK. 
-3 Department of Epidemiology and Public Health,
+<sup>3</sup> Department of Epidemiology and Public Health,
 University College London, London, UK.
 
 **Abstract**
